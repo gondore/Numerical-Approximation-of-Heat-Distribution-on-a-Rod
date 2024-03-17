@@ -22,6 +22,11 @@ $$
 
 (The factor $\frac{2}{\sqrt{\pi}}$ is a normalizing constant.) Its name comes from its frequent use in probability and statistics, but it also appears in other branches of mathematics, such as partial differential equations (in particular in solving the heat equation, as we shall see).
 
+![equation](https://latex.codecogs.com/svg.latex?\begin{align*}
+& \text{Consider the initial value problem} \\
+& u_t = u_{xx} \tag{1} \\
+& u|_{t=0} = \begin{cases} 1, & x \geq 0 \\ 0, & x < 0 \end{cases} \tag{2}
+\end{align*})
 
 Consider the initial value problem
 \begin{aligned}
