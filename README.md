@@ -24,14 +24,14 @@ $$
 
 
 Consider the initial value problem
-\begin{align}
+$\begin{align}
 u_t &= u_{xx} \quad (1)\\
 u|_{t=0} &= 
 \begin{cases}
 1, & x \geq 0\\
 0, & x < 0
 \end{cases} \quad (2)
-\end{align}
+\end{align}$
 For simplicity, we have taken the diffusion constant \(k\) to be 1. The particular solution of this PDE is given by 
 
 
