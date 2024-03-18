@@ -1,17 +1,6 @@
 # Numerical-Approximation-of-Heat-Distribution-on-a-Rod
 Supporting information for a numerical approximation project by Justin Loi, Aamina Mohammed, Jason Dai, Wing Pok Lee, and Cecilia Han
 
-
-<div style="text-align: center; margin-top: 2em;">
-    <span style="font-family: 'Times New Roman', Times, serif; font-size: 2em; font-weight: bold;">
-       Numerical Approximation of Heat Distribution on a Rod
-    </span>
-    <br>
-    <span style="font-family: 'Times New Roman', Times, serif; font-size: 1.5em;">
-        Justin Loi
-    </span>
-</div>
-
 We generate data for the heat error function using natural cubic splines and use it to graph the heat distribution of a rod. 
 
 The error function $\text{erf} : \mathbb{R} \rightarrow \mathbb{R}$ is defined as
